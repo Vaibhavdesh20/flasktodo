@@ -15,4 +15,4 @@ git push heroku master
 
 
 
-just aisehi
+just aisehi teri asi ...
